@@ -1,2 +1,2 @@
-# test_repo
-this repo is created only for test purposes
+# Hello-world
+hey this repo is Hello-world only created for test purposes
